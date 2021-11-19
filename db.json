@@ -1,0 +1,17 @@
+{
+  "users": {
+    "1": {
+      "username": "Elvis",
+      "email": "elvis@evils.com"
+    },
+    "2": {
+      "username": "The Rock",
+      "email": "rock@rock.com"
+    },
+    "3": {
+      "username": "Jane",
+      "email": "jane@arc.fr"
+    }
+  },
+  "devices": {}
+}
